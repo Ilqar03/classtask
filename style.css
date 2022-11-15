@@ -1,0 +1,42 @@
+*{
+    color: red;
+}
+
+
+h2{
+color: green;
+}
+
+
+ul>li{
+    background-color: yellow;
+}
+
+.card.main{
+    font-family: 'Anton', sans-serif;
+}
+
+
+.card{
+color: pink;font-size: 2rem;
+}
+
+#main_element{
+    font-size: 50px;
+}
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h1,h2{
+    font-family: 'Rubik Bubbles', cursive;
+}
+
+
+.class,i{
+    font-size: 100px;
+    margin: 100px;
+}
